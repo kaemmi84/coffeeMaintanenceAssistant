@@ -1,0 +1,2 @@
+- comments in english
+- add mermad diagrams for entity realtation ships and uml
